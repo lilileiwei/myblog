@@ -1,0 +1,968 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df196ea7-8bac-4e42-97ec-dc293b74f572" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/12_50.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/fw_arrow.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/go.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/monitor-background-horizontal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/monitor-background-vertical.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/monitor-play-button.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/msg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/portrait.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/sysit_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/._asp.net" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/asp.net/._file_manager_json.ashx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/asp.net/._upload_json.ashx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/asp.net/bin/._LitJSON.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/asp.net/bin/LitJSON.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/jsp/lib/._commons-fileupload-1.2.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/jsp/lib/._commons-io-1.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/jsp/lib/._json_simple-1.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/jsp/lib/commons-fileupload-1.2.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/jsp/lib/commons-io-1.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/jsp/lib/json_simple-1.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._0.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._10.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._100.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._101.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._102.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._103.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._104.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._105.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._106.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._107.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._108.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._109.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._11.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._110.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._111.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._112.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._113.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._114.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._115.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._116.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._117.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._118.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._119.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._12.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._120.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._121.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._122.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._123.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._124.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._125.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._126.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._127.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._128.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._129.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._13.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._130.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._131.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._132.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._133.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._134.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._14.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._15.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._16.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._17.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._18.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._19.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._20.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._21.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._22.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._23.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._24.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._25.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._26.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._27.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._28.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._29.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._30.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._31.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._32.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._33.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._34.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._35.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._36.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._37.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._38.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._39.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._4.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._40.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._41.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._42.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._43.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._44.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._45.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._46.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._47.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._48.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._49.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._5.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._50.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._51.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._52.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._53.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._54.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._55.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._56.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._57.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._58.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._59.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._6.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._60.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._61.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._62.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._63.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._64.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._65.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._66.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._67.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._68.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._69.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._7.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._70.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._71.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._72.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._73.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._74.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._75.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._76.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._77.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._78.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._79.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._8.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._80.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._81.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._82.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._83.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._84.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._85.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._86.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._87.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._88.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._89.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._9.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._90.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._91.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._92.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._93.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._94.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._95.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._96.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._97.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._98.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._99.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/._qq.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/0.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/10.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/100.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/101.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/102.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/103.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/104.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/105.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/106.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/107.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/108.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/109.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/11.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/110.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/111.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/112.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/113.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/114.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/115.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/116.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/117.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/118.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/119.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/12.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/120.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/121.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/122.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/123.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/124.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/125.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/126.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/127.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/128.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/129.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/13.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/130.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/131.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/132.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/133.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/134.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/14.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/15.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/16.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/17.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/18.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/19.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/20.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/21.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/22.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/23.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/24.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/25.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/26.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/27.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/28.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/29.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/30.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/31.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/32.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/33.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/34.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/35.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/36.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/37.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/38.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/39.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/4.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/40.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/41.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/42.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/43.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/44.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/45.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/46.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/47.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/48.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/49.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/5.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/50.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/51.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/52.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/53.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/54.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/55.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/56.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/57.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/58.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/59.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/6.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/60.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/61.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/62.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/63.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/64.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/65.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/66.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/67.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/68.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/69.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/7.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/70.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/71.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/72.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/73.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/74.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/75.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/76.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/77.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/78.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/79.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/8.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/80.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/81.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/82.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/83.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/84.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/85.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/86.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/87.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/88.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/89.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/9.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/90.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/91.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/92.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/93.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/94.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/95.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/96.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/97.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/98.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/99.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/emoticons/qq.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/file_manager/images/._Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/file_manager/images/._file-16.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/file_manager/images/._file-64.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/file_manager/images/._folder-16.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/file_manager/images/._folder-64.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/file_manager/images/._go-up.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/file_manager/images/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/file_manager/images/file-16.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/file_manager/images/file-64.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/file_manager/images/folder-16.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/file_manager/images/folder-64.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/file_manager/images/go-up.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/image/images/._align_left.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/image/images/._align_right.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/image/images/._align_top.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/image/images/._refresh.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/image/images/align_left.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/image/images/align_right.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/image/images/align_top.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/image/images/refresh.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/skins/common/._blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/skins/common/._flash.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/skins/common/._loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/skins/common/._media.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/skins/common/._rm.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/skins/common/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/skins/common/flash.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/skins/common/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/skins/common/media.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/skins/common/rm.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/skins/default/._bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/skins/default/._default.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/skins/default/bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/skins/default/default.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/fonts/texb.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/myblog.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/cache/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/cache/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/autoload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/constants.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/database.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/doctypes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/foreign_chars.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/hooks.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/migration.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/mimes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/profiler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/routes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/smileys.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/user_agents.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/controllers/admin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/controllers/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/controllers/welcome.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/core/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/errors/error_404.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/errors/error_db.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/errors/error_general.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/errors/error_php.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/errors/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/helpers/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/hooks/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/english/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/logs/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/models/article_model.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/models/comment_model.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/models/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/models/user_model.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/third_party/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/admin_header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/admin_index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/admin_menu.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/blogComments.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/blog_catalogs.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/change_mood.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/change_pwd.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/editCatalog.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/list_blogs.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/login.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/new_blog.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/personal_information.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/reg.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/viewPost.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/welcome_message.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/jquery.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/osc-popup.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/oschina2011.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/shCore.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/shThemeDefault.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/space2011.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/thickbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/brush.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/city.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/getcity.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery-1.11.3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery-1.12.4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery-1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery-1.js.dump" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery_002.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/oschina.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/thickbox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/asp.net/._README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/asp.net/._demo.aspx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/asp.net/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/asp.net/demo.aspx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/asp.net/file_manager_json.ashx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/asp.net/upload_json.ashx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/asp/._JSON_2.0.4.asp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/asp/._demo.asp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/asp/._file_manager_json.asp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/asp/._upload_5xsoft.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/asp/._upload_json.asp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/asp/JSON_2.0.4.asp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/asp/demo.asp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/asp/file_manager_json.asp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/asp/upload_5xsoft.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/asp/upload_json.asp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/examples/._demo-01.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/examples/._demo-02.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/examples/._demo-03.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/examples/._demo-04.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/examples/._demo-05.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/examples/._demo-06.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/examples/._demo-07.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/examples/._demo-08.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/examples/._demo-09.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/examples/._demo-10.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/examples/._demo-11.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/examples/._demo-12.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/examples/._demo-13.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/examples/._demo-14.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/examples/._demo-15.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/examples/._demo-16.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/examples/._demo-17.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/examples/._demo-18.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/examples/._demo-19.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/examples/._demo-20.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/examples/._index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/examples/._index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/examples/._remote_image.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/examples/demo-01.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/examples/demo-02.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/examples/demo-03.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/examples/demo-04.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/examples/demo-05.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/examples/demo-06.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/examples/demo-07.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/examples/demo-08.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/examples/demo-09.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/examples/demo-10.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/examples/demo-11.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/examples/demo-12.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/examples/demo-13.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/examples/demo-14.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/examples/demo-15.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/examples/demo-16.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/examples/demo-17.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/examples/demo-18.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/examples/demo-19.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/examples/demo-20.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/examples/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/examples/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/examples/remote_image.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/jsp/._README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/jsp/._demo.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/jsp/._file_manager_json.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/jsp/._upload_json.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/jsp/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/jsp/demo.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/jsp/file_manager_json.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/jsp/upload_json.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/kindeditor-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/kindeditor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/license.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/php/._JSON.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/php/._demo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/php/._file_manager_json.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/php/._upload_json.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/php/JSON.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/php/demo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/php/file_manager_json.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/php/upload_json.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/._about.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/._flash.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/._media.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/._plainpaste.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/._wordpaste.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/about.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/advtable/._advtable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/advtable/._cell.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/advtable/advtable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/advtable/cell.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/file_manager/._file_manager.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/file_manager/._file_manager.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/file_manager/._file_manager.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/file_manager/file_manager.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/file_manager/file_manager.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/file_manager/file_manager.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/flash.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/image/._image.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/image/image.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/link/._link.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/link/link.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/media.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/plainpaste.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/plugins/wordpaste.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/skins/._default.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/skins/common/._editor.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/skins/common/editor.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kindeditor/skins/default.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Benchmark.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/CodeIgniter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Common.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Controller.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Exceptions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Hooks.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Input.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Loader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Model.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Output.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Router.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Security.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/URI.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Utf8.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/DB.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/DB_active_rec.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/DB_cache.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/DB_driver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/DB_forge.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/DB_result.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/DB_utility.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/cubrid/cubrid_driver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/cubrid/cubrid_forge.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/cubrid/cubrid_result.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/cubrid/cubrid_utility.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/cubrid/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/mssql/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/mssql/mssql_driver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/mssql/mssql_forge.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/mssql/mssql_result.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/mssql/mssql_utility.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/mysql/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/mysql/mysql_driver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/mysql/mysql_forge.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/mysql/mysql_result.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/mysql/mysql_utility.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/mysqli/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/mysqli/mysqli_driver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/mysqli/mysqli_forge.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/mysqli/mysqli_result.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/mysqli/mysqli_utility.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/oci8/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/oci8/oci8_driver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/oci8/oci8_forge.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/oci8/oci8_result.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/oci8/oci8_utility.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/odbc/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/odbc/odbc_driver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/odbc/odbc_forge.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/odbc/odbc_result.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/odbc/odbc_utility.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/pdo/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/pdo/pdo_driver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/pdo/pdo_forge.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/pdo/pdo_result.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/pdo/pdo_utility.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/postgre/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/postgre/postgre_driver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/postgre/postgre_forge.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/postgre/postgre_result.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/postgre/postgre_utility.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/sqlite/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/sqlite/sqlite_driver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/sqlite/sqlite_forge.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/sqlite/sqlite_result.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/sqlite/sqlite_utility.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/sqlsrv/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/sqlsrv/sqlsrv_driver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/sqlsrv/sqlsrv_forge.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/sqlsrv/sqlsrv_result.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/sqlsrv/sqlsrv_utility.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/fonts/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/array_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/captcha_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/cookie_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/date_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/directory_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/download_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/email_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/file_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/form_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/html_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/inflector_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/language_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/number_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/path_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/security_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/smiley_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/string_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/text_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/typography_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/url_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/xml_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/english/calendar_lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/english/date_lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/english/db_lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/english/email_lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/english/form_validation_lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/english/ftp_lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/english/imglib_lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/english/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/english/migration_lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/english/number_lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/english/profiler_lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/english/unit_test_lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/english/upload_lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Cache/Cache.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Cache/drivers/Cache_apc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Cache/drivers/Cache_dummy.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Cache/drivers/Cache_file.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Cache/drivers/Cache_memcached.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Cache/drivers/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Cache/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Calendar.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Cart.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Driver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Email.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Encrypt.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Form_validation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Ftp.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Image_lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Javascript.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Log.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Migration.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Pagination.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Parser.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Profiler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Session.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Sha1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Table.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Trackback.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Typography.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Unit_test.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Upload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/User_agent.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Xmlrpc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Xmlrpcs.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Zip.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/javascript/Jquery.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/javascript/index.html" />
+    </list>
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="D:\fe2016\myblog" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="myblog" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.htaccess" />
+        <option value="$PROJECT_DIR$/application/views/newBlog.htm" />
+        <option value="$PROJECT_DIR$/application/views/newBlog.php" />
+        <option value="$PROJECT_DIR$/assets/js/city.js" />
+        <option value="$PROJECT_DIR$/application/views/reg.php" />
+        <option value="$PROJECT_DIR$/application/config/autoload.php" />
+        <option value="$PROJECT_DIR$/application/views/index_logined.php" />
+        <option value="$PROJECT_DIR$/application/views/admin_meun.php" />
+        <option value="$PROJECT_DIR$/application/views/1111" />
+        <option value="$PROJECT_DIR$/application/views/admin_header.php" />
+        <option value="$PROJECT_DIR$/application/views/blogs.php" />
+        <option value="$PROJECT_DIR$/application/config/database.php" />
+        <option value="$PROJECT_DIR$/application/config/config.php" />
+        <option value="$PROJECT_DIR$/application/views/viewPost.php" />
+        <option value="$PROJECT_DIR$/application/views/editCatalog.php" />
+        <option value="$PROJECT_DIR$/application/models/article_model.php" />
+        <option value="$PROJECT_DIR$/application/models/comment_model.php" />
+        <option value="$PROJECT_DIR$/application/views/change_mood.php" />
+        <option value="$PROJECT_DIR$/application/views/blogComments.php" />
+        <option value="$PROJECT_DIR$/application/controllers/admin.php" />
+        <option value="$PROJECT_DIR$/application/models/user_model.php" />
+        <option value="$PROJECT_DIR$/application/views/login.php" />
+        <option value="$PROJECT_DIR$/application/views/index.php" />
+        <option value="$PROJECT_DIR$/application/views/admin_index.php" />
+        <option value="$PROJECT_DIR$/application/views/blog_catalogs.php" />
+        <option value="$PROJECT_DIR$/application/views/new_blog.php" />
+        <option value="$PROJECT_DIR$/application/views/list_blogs.php" />
+        <option value="$PROJECT_DIR$/application/views/change_pwd.php" />
+        <option value="$PROJECT_DIR$/application/views/admin_menu.php" />
+        <option value="$PROJECT_DIR$/application/controllers/welcome.php" />
+        <option value="$PROJECT_DIR$/application/views/personal_information.php" />
+        <option value="$PROJECT_DIR$/assets/css/shCore.css" />
+        <option value="$PROJECT_DIR$/haha.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1" />
+    <option name="y" value="1" />
+    <option name="width" value="1364" />
+    <option name="height" value="726" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Blade files</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myblog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="js-jscs-nodeInterpreter" value="C:\PROGRAM FILES\NODEJS\node.exe" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\myblog\application\views" />
+      <recent name="C:\xampp\htdocs\myblog\assets" />
+      <recent name="C:\xampp\htdocs\myblog\assets\js" />
+      <recent name="E:\12万\php\myblog\application\views" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df196ea7-8bac-4e42-97ec-dc293b74f572" name="Default" comment="" />
+      <created>1484289290468</created>
+      <option name="number" value="Default" />
+      <updated>1484289290468</updated>
+      <workItem from="1484289294033" duration="317000" />
+      <workItem from="1484289677403" duration="13831000" />
+      <workItem from="1484355990957" duration="22183000" />
+      <workItem from="1484391390015" duration="1911000" />
+      <workItem from="1484442056776" duration="19183000" />
+      <workItem from="1484465903775" duration="348000" />
+      <workItem from="1484466771448" duration="84000" />
+      <workItem from="1484566635293" duration="644000" />
+      <workItem from="1484567636400" duration="217000" />
+      <workItem from="1484567888588" duration="9997000" />
+      <workItem from="1484613722682" duration="22807000" />
+      <workItem from="1484700839085" duration="18675000" />
+      <workItem from="1484787848511" duration="13518000" />
+      <workItem from="1485577252498" duration="602000" />
+      <workItem from="1485777941021" duration="678000" />
+      <workItem from="1486255844235" duration="601000" />
+      <workItem from="1486343909133" duration="2894000" />
+      <workItem from="1486616745506" duration="184000" />
+      <workItem from="1486878383164" duration="1124000" />
+      <workItem from="1486881423286" duration="166000" />
+      <workItem from="1486987022098" duration="963000" />
+      <workItem from="1487235416480" duration="4000" />
+      <workItem from="1487316640444" duration="1000" />
+      <workItem from="1487597487454" duration="74000" />
+      <workItem from="1488683032175" duration="659000" />
+      <workItem from="1490244322686" duration="1814000" />
+    </task>
+    <task id="LOCAL-00001" summary="myblog项目">
+      <created>1498830778771</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1498830778771</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="133479000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1" y="1" width="1364" height="726" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21088958" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2949527" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="myblog项目" />
+    <option name="LAST_COMMIT_MESSAGE" value="myblog项目" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/haha.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19622642">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
